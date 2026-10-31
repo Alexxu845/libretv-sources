@@ -2,6 +2,7 @@
   "name": "影视源分类单（自动更新）",
   "version": 2,
   "sources": [
+    { "name": "FreeOK", "url": "https://freeokk.pro/api.php/provide/vod", "detail": "https://freeokk.pro", "isAdult": false },
     { "name": "非凡影视", "url": "https://cj.ffzyapi.com/api.php/provide/vod", "detail": "https://ffzy5.tv", "isAdult": false },
     { "name": "量子资源", "url": "https://cj.lziapi.com/api.php/provide/vod", "detail": "https://cj.lziapi.com", "isAdult": false },
     { "name": "暴风资源", "url": "https://bfzyapi.com/api.php/provide/vod", "detail": "https://bfzyapi.com", "isAdult": false },
